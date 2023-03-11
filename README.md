@@ -21,3 +21,8 @@
 6.You can figure out why there is a save to .csv, use it at your discretion.
 
 7.All comments and documentation for the release have been rewritten into English.
+
+
+If it does not work, check if all the libraries are installed, in case they are not, write the following command:
+
+pip install mimesis
